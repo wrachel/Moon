@@ -8,7 +8,7 @@ logo:               'assets/img/lock_logo.png'
 background:         'assets/img/dominance_assertion.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://wrachel.github.io/Moon
+url:                https://wrachel.github.io
 
 # Jekyll
 permalink:          /:title/
