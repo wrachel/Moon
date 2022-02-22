@@ -9,6 +9,7 @@ background:         'assets/img/dominance_assertion.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://wrachel.github.io
+url:                https://localhost:4000
 
 # Jekyll
 permalink:          /:title/
@@ -40,7 +41,7 @@ disqus_shortname:   wrachel
 #email:
 #twitter:            username
 #facebook:           username
-github-url:         "https://github.com/wrachel/TaxEvaders"
+github-url:         "wrachel/TaxEvaders"
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
