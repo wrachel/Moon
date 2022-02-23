@@ -9,7 +9,6 @@ background:         'assets/img/dominance_assertion.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://wrachel.github.io
-url:                https://localhost:4000
 
 # Jekyll
 permalink:          /:title/
