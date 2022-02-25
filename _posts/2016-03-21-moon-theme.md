@@ -27,10 +27,19 @@ Here you will be able to see our password manager and all the other features inc
 That's all.
 
 ## Preview
-![Home Page](https://github.com/wrachel/wrachel.github.io/blob/master/assets/img/home.PNG)
-![password tester](https://github.com/wrachel/wrachel.github.io/blob/master/assets/img/passtester.PNG)
-![password manager](https://github.com/wrachel/wrachel.github.io/blob/master/assets/img/passwordmanager.PNG)
-![sign in page](https://github.com/wrachel/wrachel.github.io/blob/master/assets/img/signin.PNG)
+
+<figure class="half">
+    <a href="/img/home.PNG"><img src="/img/home.PNG"></a>
+    <a href="/img/passwordmanager.PNG"><img src="/img/passwordmanager.PNG"></a>
+    <figcaption>Image Examples.</figcaption>
+</figure>
+
+<figure class="half">
+    <a href="/img/passtester.PNG"><img src="/img/passtester.PNG"></a>
+    <a href="/img/signin.PNG"><img src="/img/signin.PNG"></a>
+    <figcaption>More Images!</figcaption>
+</figure>
+
 
 ---
 
