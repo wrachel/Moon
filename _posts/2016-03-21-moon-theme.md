@@ -1,56 +1,49 @@
 ---
 layout: post
 title:  "Password Manager"
-date:   2016-04-06
-excerpt: "Minimal, one column Jekyll theme for your blog."
+date:   2022-02-24
+excerpt: "A guide to our password manager."
 project: true
 tag:
-- jekyll 
-- moon
+- jekyll
 - blog
 - about
 - theme
-comments: true
+  comments: true
 ---
 
-![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
-    
-<center><b>Moon</b> is a minimal, one column jekyll theme.</center>
-     
- I'm not a developer or designer. And I don't add footer to show who did this theme. If you like this theme or using it, please give a **star** for motivation, It makes me happy.
+<center><b>Tax Evaders</b> created this password manager.</center>
 
-<iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
-      
-## Installation
-* Fork the [Moon repo](https://github.com/TaylanTatli/Moon/fork)
-* Edit `_config.yml` file.
-* Remove sample posts from `_posts` folder and add yours.
-* Edit `index.md` file in `about` folder.
-* Change repo name to `YourUserName.github.io`    
-     
+
+<iframe src="https://github.com/wrachel/TaxEvaders" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+
+## Using the Password Manager
+Navigate to [https://taxevasion.pentahex.xyz/](https://taxevasion.pentahex.xyz/)
+Here you will be able to see our password manager and all the other features included such as:
+* Password Checker
+* Password Generator
+* Minilabs and about pages with Collegeboard FRQs for each individual
+* The actual password manager, with sign in and sign up functionality.
+
 That's all.
 
 ## Preview
 
 {% capture images %}
-	https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-	https://cloud.githubusercontent.com/assets/754514/14509717/61ad05ae-01d6-11e6-85ae-5a817dd8763b.png
-	https://cloud.githubusercontent.com/assets/754514/14509714/61a89708-01d6-11e6-8fcd-74b002a060df.png
+
+    https://github.com/wrachel/wrachel.github.io/blob/master/assets/img/home.PNG
+    https://github.com/wrachel/wrachel.github.io/blob/master/assets/img/passtester.PNG
+    https://github.com/wrachel/wrachel.github.io/blob/master/assets/img/passwordmanager.PNG
+    https://github.com/wrachel/wrachel.github.io/blob/master/assets/img/signin.PNG
+
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=3 %}
+{% include gallery images=images caption="Screenshots of Website" cols=2 %}
 
 ---
 
-{% capture images %}
-	https://cloud.githubusercontent.com/assets/754514/14509718/61b09a20-01d6-11e6-8da1-4202ae4d83cd.png
-	https://cloud.githubusercontent.com/assets/754514/14509715/61aa9d00-01d6-11e6-81a6-c6837edf2e84.png
-{% endcapture %}
-{% include gallery images=images caption="Moon Theme on Small Screen Size" cols=2 %}      
-      
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.      
 
 ## Site Setup
-A quick checklist of the files you’ll want to edit to get up and running.    
+A quick checklist of the files you’ll want to edit to get up and running.
 
 ### Site Wide Configuration
 `_config.yml` is your friend. Open it up and personalize it. Most variables are self explanatory but here's an explanation of each if needed:
@@ -123,7 +116,7 @@ To set what links appear in the top navigation edit `_data/navigation.yml`. Use 
 
 - title: Moon
   url: http://taylantatli.me/Moon
-{% endhighlight %}
+  {% endhighlight %}
 
 ---
 
@@ -140,7 +133,7 @@ feature: /assets/img/some-image.png
 or
 feaure: http://example.com/some-image.png
 ```    
- This also will be used for twitter card:
+This also will be used for twitter card:
 
 ![Moon Twitter Card](https://cloud.githubusercontent.com/assets/754514/14509719/61c5751c-01d6-11e6-8c29-ce8ccad149bf.png)
 
