@@ -15,8 +15,6 @@ tag:
 <center><b>Tax Evaders</b> created this password manager.</center>
 
 
-<iframe src="https://github.com/wrachel/TaxEvaders" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
-
 ## Using the Password Manager
 Navigate to [https://taxevasion.pentahex.xyz/](https://taxevasion.pentahex.xyz/)
 Here you will be able to see our password manager and all the other features included such as:
