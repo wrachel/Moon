@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Syntax Highlighting Post
-date: 2013-08-16
-excerpt: "Demo post displaying the various ways of highlighting code in Markdown."
-tags: [sample post, code, highlighting]
+title: Jekyll debugging
+date: 2022-02-24
+excerpt: "Depicting Jekyll functionality"
+tags: [Jekyll]
 comments: true
 ---
 
