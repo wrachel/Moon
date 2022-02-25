@@ -34,7 +34,7 @@ https://user-images.githubusercontent.com/40574565/155638600-cf8f9027-a103-4eef-
 https://user-images.githubusercontent.com/40574565/155638624-735e3ce7-7c58-4936-9ddb-8e9a5de13732.PNG
 https://user-images.githubusercontent.com/40574565/155638639-3eba669f-d574-4bd7-b4d9-7ac8939c2aac.PNG
 {% endcapture %}
-{% include gallery images=images caption="Test images" cols=4 %}
+{% include gallery images=images caption="preview images" cols=4 %}
 
 ---
 
