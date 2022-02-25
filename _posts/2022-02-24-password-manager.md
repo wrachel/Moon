@@ -4,11 +4,7 @@ title:  "Password Manager"
 date:   2022-02-24
 excerpt: "A guide to our password manager."
 project: true
-tag:
-- jekyll
-- blog
-- about
-- theme
+tags: [about]
   comments: true
 ---
 
