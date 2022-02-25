@@ -24,7 +24,7 @@ Here you will be able to see our password manager and all the other features inc
 * Minilabs and about pages with Collegeboard FRQs for each individual
 * The actual password manager, with sign in and sign up functionality.
 
-That's all.
+Test statement.
 
 ## Preview
 
