@@ -5,7 +5,13 @@ tags: [about, Jekyll, theme, moon]
 date: 2022-02-24
 comments: false
 ---
+## Who are we?
+We are a team of Del Norte High School students who made this project! Feel free to check out our posts for more information on us.
 
+## What is this project?
+Our project, which is visible at [https://taxevasion.pentahex.xyz/](https://taxevasion.pentahex.xyz/) is a password manager with other many related features.
+
+Check out our features below.
 
 ## Features
 * Authentication
