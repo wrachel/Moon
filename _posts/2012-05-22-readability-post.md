@@ -38,9 +38,9 @@ Oh, and our team's scrum master of course because, like, who else would it be?
 ---
 
 {% capture images %}
-https://user-images.githubusercontent.com/40574565/155639912-06804626-0463-4192-aaf7-c7600155d2f1.jpeg)
-https://user-images.githubusercontent.com/40574565/155639985-8d3f4319-3778-48ec-8a8a-f064a8d39319.jpg
-https://user-images.githubusercontent.com/40574565/155640008-2bb28bb6-9ae8-49e4-8780-343daac2a237.jpg
-https://user-images.githubusercontent.com/40574565/155639981-152f9cab-e662-4ee0-b89a-237dcc758991.jpg
+    https://user-images.githubusercontent.com/40574565/155639912-06804626-0463-4192-aaf7-c7600155d2f1.jpeg
+    https://user-images.githubusercontent.com/40574565/155639985-8d3f4319-3778-48ec-8a8a-f064a8d39319.jpg
+    https://user-images.githubusercontent.com/40574565/155640008-2bb28bb6-9ae8-49e4-8780-343daac2a237.jpg
+    https://user-images.githubusercontent.com/40574565/155639981-152f9cab-e662-4ee0-b89a-237dcc758991.jpg
 {% endcapture %}
 {% include gallery images=images caption="Meet the team! Team is in aforementioned order." cols=4 %}
