@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Inspriation"
+title: "Inspiration"
 date: 2022-02-24
 excerpt: "Detailing our Creative Process"
 tags: [inspiration, creativity]
