@@ -28,18 +28,13 @@ Test statement.
 
 ## Preview
 
-<figure class="half">
-    <a href="/img/home.PNG"><img src="/img/home.PNG"></a>
-    <a href="/img/passwordmanager.PNG"><img src="/img/passwordmanager.PNG"></a>
-    <figcaption>Image Examples.</figcaption>
-</figure>
-
-<figure class="half">
-    <a href="/img/passtester.PNG"><img src="/img/passtester.PNG"></a>
-    <a href="/img/signin.PNG"><img src="/img/signin.PNG"></a>
-    <figcaption>More Images!</figcaption>
-</figure>
-
+{% capture images %}
+https://user-images.githubusercontent.com/40574565/155638553-6096175b-5cb6-457d-9f9f-cae51e7361d2.PNG
+https://user-images.githubusercontent.com/40574565/155638600-cf8f9027-a103-4eef-ab83-854843a2b6fc.PNG
+https://user-images.githubusercontent.com/40574565/155638624-735e3ce7-7c58-4936-9ddb-8e9a5de13732.PNG
+https://user-images.githubusercontent.com/40574565/155638639-3eba669f-d574-4bd7-b4d9-7ac8939c2aac.PNG
+{% endcapture %}
+{% include gallery images=images caption="Test images" cols=4 %}
 
 ---
 
