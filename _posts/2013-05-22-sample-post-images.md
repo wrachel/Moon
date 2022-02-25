@@ -18,4 +18,3 @@ The Review column will contain a Review ticket for the Friday/Monday Delivery. I
 
 Any issues that come up with the Scrum Board will be dealt with as a team, with the Scrum Master facilitating conversation between team members. Issues from Teacher or Crossover will be marked down on the Review Ticket, and new tickets will be assigned accordingly to deal with those issues.
 
-To better manage the Scrum Team, Scrum Board, and issues, this trimester will consist of better organization. This includes proper use of the different columns as specified above and updating all issues with tangibles as they are completed.

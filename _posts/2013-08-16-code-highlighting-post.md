@@ -7,9 +7,23 @@ tags: [Jekyll]
 comments: true
 ---
 
-Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.[^1]
+This post will go over some special features that can be done in Jekyll!
 
-[^1]: <http://en.wikipedia.org/wiki/Syntax_highlighting>
+### Displaying multiple images
+To display multiple pictures:
+
+    {% raw %}
+        {% capture images %}
+        img source1
+        img source2
+        img source3
+        img source4
+        {% endcapture %}
+        {% include gallery images=images caption="preview images" cols=4 %}
+
+    {% endraw %}
+change the cols=4 number to however photos you would like to display.
+
 
 ### Highlighted Code Blocks
 
@@ -55,20 +69,6 @@ module Jekyll
   end
 end
 {% endhighlight %}
-
-
-### Standard Code Block
-
-    {% raw %}
-    <nav class="pagination" role="navigation">
-        {% if page.previous %}
-            <a href="{{ site.url }}{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">Previous article</a>
-        {% endif %}
-        {% if page.next %}
-            <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Next article</a>
-        {% endif %}
-    </nav><!-- /.pagination -->
-    {% endraw %}
 
 
 ### Fenced Code Blocks

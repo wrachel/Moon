@@ -3,9 +3,8 @@ layout: post
 title:  "Password Manager"
 date:   2022-02-24
 excerpt: "A guide to our password manager."
-project: true
 tags: [about]
-  comments: true
+comments: true
 ---
 
 <center><b>Tax Evaders</b> created this password manager.</center>
